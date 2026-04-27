@@ -1,7 +1,7 @@
 
 Password Generator - генератор безопасных паролей
 Author: Васильев Александр Александрович
-GitHub: [ТВОЙ_НИК]
+GitHub: https://github.com/luv3me2/password-generator.git
 """
 
 import random
